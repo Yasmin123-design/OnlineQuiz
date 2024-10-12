@@ -1,0 +1,83 @@
+﻿
+
+@{
+    ViewBag.Title = "نتيجة الاختبار";  // عنوان الصفحة
+}
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+
+        .result-container {
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            text-align: center;
+            max-width: 600px;
+            margin: 20px auto;
+        }
+
+        .score {
+            font-size: 24px;
+            font-weight: bold;
+            margin: 20px 0;
+            color: #4CAF50; /* اللون الأخضر */
+        }
+
+        .message {
+            font-size: 18px;
+            margin: 10px 0;
+            color: #555;
+        }
+
+        .retry-link {
+            display: inline-block;
+            margin-top: 20px;
+            background-color: #4a90e2;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s;
+        }
+
+            .retry-link:hover {
+                background-color: #357ABD; /* اللون الداكن */
+            }
+    </style>
+</head>
+<body>
+    <div class="result-container">
+        <h2>نتيجة الاختبار</h2>
+        <p class="score">نتيجتك: @ViewBag.Score</p>
+
+        @if (ViewBag.Score >= 5)
+        {
+            <p class="message">عمل رائع! لقد اجتزت الاختبار.</p>
+        }
+        else
+        {
+            <p class="message">استمر في المحاولة! حظاً أفضل في المرة القادمة.</p>
+        }
+
+        <a href="/Home/Index" class="retry-link">خذ اختبار آخر</a>
+    </div>
+</body>
+</html>
+

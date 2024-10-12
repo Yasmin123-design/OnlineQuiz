@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\onlinequiz\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|solutionrelative:onlinequiz\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\onlinequiz\\views\\quiz\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|solutionrelative:onlinequiz\\views\\quiz\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\onlinequiz\\views\\quiz\\submitanswers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|solutionrelative:onlinequiz\\views\\quiz\\submitanswers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\onlinequiz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|solutionrelative:onlinequiz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|c:\\users\\lenovo\\source\\repos\\mvc\\onlinequiz\\onlinequiz\\migrations\\20241007180843_insertchoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|solutionrelative:onlinequiz\\migrations\\20241007180843_insertchoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\onlinequiz\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|solutionrelative:onlinequiz\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\onlinequiz\\migrations\\20241007180511_insertquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|solutionrelative:onlinequiz\\migrations\\20241007180511_insertquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\onlinequiz\\migrations\\20241007175954_insertagain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|solutionrelative:onlinequiz\\migrations\\20241007175954_insertagain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\onlinequiz\\migrations\\20241007174032_delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|solutionrelative:onlinequiz\\migrations\\20241007174032_delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\onlinequiz\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|solutionrelative:onlinequiz\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\onlinequiz\\models\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|solutionrelative:onlinequiz\\models\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\onlinequiz\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|solutionrelative:onlinequiz\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\onlinequiz\\models\\quizcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|solutionrelative:onlinequiz\\models\\quizcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\onlinequiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|solutionrelative:onlinequiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\onlinequiz\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|solutionrelative:onlinequiz\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\onlinequiz\\viewmodel\\questionswithchoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|solutionrelative:onlinequiz\\viewmodel\\questionswithchoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\onlinequiz\\onlinequiz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|solutionrelative:onlinequiz\\onlinequiz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Migrations\\20241007061749_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|solutionrelative:OnlineQuiz\\Migrations\\20241007061749_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Migrations\\20241007175655_deleteCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5AB86-7DA9-4A3D-B7BD-788DC90F764D}|OnlineQuiz\\OnlineQuiz.csproj|solutionrelative:OnlineQuiz\\Migrations\\20241007175655_deleteCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Views\\Quiz\\Show.cshtml",
+              "RelativeDocumentMoniker": "OnlineQuiz\\Views\\Quiz\\Show.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Views\\Quiz\\Show.cshtml",
+              "RelativeToolTip": "OnlineQuiz\\Views\\Quiz\\Show.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T05:36:16.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubmitAnswers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Views\\Quiz\\SubmitAnswers.cshtml",
+              "RelativeDocumentMoniker": "OnlineQuiz\\Views\\Quiz\\SubmitAnswers.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Views\\Quiz\\SubmitAnswers.cshtml",
+              "RelativeToolTip": "OnlineQuiz\\Views\\Quiz\\SubmitAnswers.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T06:20:28.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "OnlineQuiz\\Controllers\\QuizController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "OnlineQuiz\\Controllers\\QuizController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:03:35.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineQuiz\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OnlineQuiz\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T04:58:51.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241007180843_insertchoices.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Migrations\\20241007180843_insertchoices.cs",
+              "RelativeDocumentMoniker": "OnlineQuiz\\Migrations\\20241007180843_insertchoices.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Migrations\\20241007180843_insertchoices.cs",
+              "RelativeToolTip": "OnlineQuiz\\Migrations\\20241007180843_insertchoices.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T18:08:43.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineQuiz\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlineQuiz\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T18:29:58.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241007175655_deleteCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Migrations\\20241007175655_deleteCategory.cs",
+              "RelativeDocumentMoniker": "OnlineQuiz\\Migrations\\20241007175655_deleteCategory.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Migrations\\20241007175655_deleteCategory.cs",
+              "RelativeToolTip": "OnlineQuiz\\Migrations\\20241007175655_deleteCategory.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:56:55.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241007175954_insertagain.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Migrations\\20241007175954_insertagain.cs",
+              "RelativeDocumentMoniker": "OnlineQuiz\\Migrations\\20241007175954_insertagain.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Migrations\\20241007175954_insertagain.cs",
+              "RelativeToolTip": "OnlineQuiz\\Migrations\\20241007175954_insertagain.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:59:54.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241007180511_insertquestions.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Migrations\\20241007180511_insertquestions.cs",
+              "RelativeDocumentMoniker": "OnlineQuiz\\Migrations\\20241007180511_insertquestions.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Migrations\\20241007180511_insertquestions.cs",
+              "RelativeToolTip": "OnlineQuiz\\Migrations\\20241007180511_insertquestions.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAC4AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T18:05:11.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241007174032_delete.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Migrations\\20241007174032_delete.cs",
+              "RelativeDocumentMoniker": "OnlineQuiz\\Migrations\\20241007174032_delete.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Migrations\\20241007174032_delete.cs",
+              "RelativeToolTip": "OnlineQuiz\\Migrations\\20241007174032_delete.cs",
+              "ViewState": "AQIAAEcCAAAAAAAAAAAAAFYCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:40:32.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "OnlineQuiz\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Models\\Category.cs",
+              "RelativeToolTip": "OnlineQuiz\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T04:49:18.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OnlineQuiz\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OnlineQuiz\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:55:19.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Choice.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Models\\Choice.cs",
+              "RelativeDocumentMoniker": "OnlineQuiz\\Models\\Choice.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Models\\Choice.cs",
+              "RelativeToolTip": "OnlineQuiz\\Models\\Choice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T04:51:28.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "OnlineQuiz\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Models\\Question.cs",
+              "RelativeToolTip": "OnlineQuiz\\Models\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T04:54:27.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QuizContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Models\\QuizContext.cs",
+              "RelativeDocumentMoniker": "OnlineQuiz\\Models\\QuizContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Models\\QuizContext.cs",
+              "RelativeToolTip": "OnlineQuiz\\Models\\QuizContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:04:51.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineQuiz\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Program.cs",
+              "RelativeToolTip": "OnlineQuiz\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:56:56.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241007061749_init.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Migrations\\20241007061749_init.cs",
+              "RelativeDocumentMoniker": "OnlineQuiz\\Migrations\\20241007061749_init.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\Migrations\\20241007061749_init.cs",
+              "RelativeToolTip": "OnlineQuiz\\Migrations\\20241007061749_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:17:49.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuestionsWithChoices.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\ViewModel\\QuestionsWithChoices.cs",
+              "RelativeDocumentMoniker": "OnlineQuiz\\ViewModel\\QuestionsWithChoices.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\ViewModel\\QuestionsWithChoices.cs",
+              "RelativeToolTip": "OnlineQuiz\\ViewModel\\QuestionsWithChoices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:14:15.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OnlineQuiz",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\OnlineQuiz.csproj",
+              "RelativeDocumentMoniker": "OnlineQuiz\\OnlineQuiz.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MVC\\OnlineQuiz\\OnlineQuiz\\OnlineQuiz.csproj",
+              "RelativeToolTip": "OnlineQuiz\\OnlineQuiz.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T05:06:44.257Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
